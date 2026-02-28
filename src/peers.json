@@ -1,0 +1,16 @@
+{
+  "node_002": {
+    "ip": "172.24.224.1",
+    "tcp_port": 7778,
+    "last_seen": 1772244230.7359202,
+    "shared_files": [],
+    "reputation": 1.0
+  },
+  "node_001": {
+    "ip": "172.24.224.1",
+    "tcp_port": 7777,
+    "last_seen": 1772244230.7373588,
+    "shared_files": [],
+    "reputation": 1.0
+  }
+}
